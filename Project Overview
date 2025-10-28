@@ -1,0 +1,44 @@
+Patient Satisfaction Survey Analysis (Excel Project)
+
+This Excel project analyzes patient satisfaction survey data collected over multiple months.
+It demonstrates how to clean, transform, and visualize survey data using Pivot Tables, Excel formulas, and line charts.
+
+🏥 Project Overview
+The dataset includes 1,000 survey responses across multiple satisfaction metrics such as Overall Satisfaction, Wait Time, Staff Friendliness, Quality of Care, Facility Cleanliness, and Likelihood to Recommend.
+
+Key transformations and analyses:
+Extracted Month values from date fields using text and date formulas.
+Calculated average satisfaction scores across multiple categories using Pivot Tables.
+Created line charts to visualize trends and identify satisfaction changes month-to-month.
+Used formatting and rounding functions for clarity and consistency.
+
+⚙️ Features
+Derived Month column dynamically from date fields
+Summarized average satisfaction scores by month and category
+Line chart visualization showing trends in quality of care and cleanliness ratings
+Applied custom number formatting for professional reporting
+Insights into patient perception shifts over time
+
+🧠 Skills Demonstrated
+Excel | Pivot Tables | Trend Visualization | Data Cleaning | Healthcare Quality Analytics
+
+💡 Why It Matters
+Patient experience data helps healthcare organizations measure performance and identify weak points in care delivery.
+This project showcases how Excel can function as a lightweight BI tool, providing actionable insights without advanced software.
+
+🗂️ Data Dictionary
+| **Column Name**                 | **Description**                                | **Example Value**                    |
+| ------------------------------- | ---------------------------------------------- | ------------------------------------ |
+| **Date**                        | Date of the patient survey                     | 05/21/2025                           |
+| **Overall Satisfaction Rating** | Overall experience score from patient          | 3.1                                  |
+| **Wait Time Satisfaction**      | Patient satisfaction with waiting period       | 2.8                                  |
+| **Staff Friendliness Rating**   | Rating of staff behavior and professionalism   | 3.4                                  |
+| **Quality of Care Rating**      | Perceived quality of treatment provided        | 3.2                                  |
+| **Facility Cleanliness Rating** | Cleanliness and hygiene rating                 | 3.5                                  |
+| **Likelihood to Recommend**     | Probability of recommending the facility       | 3.0                                  |
+| **Comments & Feedback**         | Open-ended patient feedback                    | “Very clean clinic, friendly staff.” |
+| **Month**                       | Month derived from the date for trend analysis | May                                  |
+
+
+Created by: Shonda Holloway
+Repository: Patient Satisfaction Survey Analysis
